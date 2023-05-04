@@ -10,8 +10,8 @@ body {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
-    margin-bottom: 0px;
-    margin-top: 190px;
+    
+    
 }
 
 header {
@@ -33,5 +33,5 @@ h1{
 
 li{
     align-items: center;
-    margin: auto 10%;
+    margin: auto 25%;
 }
