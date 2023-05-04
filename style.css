@@ -9,8 +9,7 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    background-attachment: fixed;
-    
+    background-attachment: fixed;   
     
 }
 
@@ -19,24 +18,39 @@ header {
 }
 
 a {
-    margin: 50px;
+    margin: 10px;
 }
 
 img {
-    width: 150px;
+    width: 140px;
 }
+
 h1{
     background-color: rgba(255, 255, 255, 0.296);
-    margin-bottom: 10px;
+    margin-bottom:50px;
+    padding-top: 50px;
     font-size: 50px;
     color: fuchsia;
+    text-shadow: 1px 1px 1px black;
     padding-bottom: 50px;
     border-radius: 15px;
+}
+
+h3{
+    background-color: rgba(255, 255, 255, 0.259);
+    color: fuchsia;
+    text-shadow: 1px 1px 1px black;
+    padding: 50px;
+}
+
+footer{
+    text-align: center;
 }
 
 li{
     align-items: center;
     margin: auto 15%;
+    margin-bottom: 20px;
     
 }
 
