@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(images/fondo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+    margin-top: 190px;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    margin: 50px;
+}
+
+img {
+    width: 150px;
+}
+h1{
+    margin-top: 0px;
+    color: pink;
+    padding-bottom: 150px;
+}
+
+li{
+    align-items: center;
+    margin: auto 10%;
+}
