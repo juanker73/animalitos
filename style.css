@@ -26,12 +26,16 @@ img {
     width: 150px;
 }
 h1{
-    margin-top: 0px;
-    color: pink;
-    padding-bottom: 150px;
+    background-color: rgba(255, 255, 255, 0.296);
+    margin-bottom: 10px;
+    font-size: 50px;
+    color: fuchsia;
+    padding-bottom: 50px;
+    border-radius: 15px;
 }
 
 li{
     align-items: center;
     margin: auto 15%;
 }
+
