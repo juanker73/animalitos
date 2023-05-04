@@ -22,7 +22,8 @@ a {
 }
 
 img {
-    width: 140px;
+    width: 145px;
+    padding: 10px;
 }
 
 h1{
@@ -51,6 +52,7 @@ li{
     align-items: center;
     margin: auto 15%;
     margin-bottom: 20px;
+    list-style: none;
     
 }
 
